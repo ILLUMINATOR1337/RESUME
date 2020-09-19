@@ -31,11 +31,15 @@
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
-<td><a href="https://illuminator1337.github.io/FitnessLP/" rel="nofollow">FitnessLP</a></td>
+<td><a href="https://illuminator1337.github.io/FitnessLP/">FitnessLP</a></td>
 <td>HTML5, CSS3, JavaScript</td>
 <td align="center">Вёрстка</td>
 </tr>
-
+<tr>
+<td><a href="https://illuminator1337.github.io/AdventureLP/">AdventureLP</a></td>
+<td>HTML5, CSS3</td>
+<td align="center">Вёрстка</td>
+</tr>
 
 
 </tbody>
