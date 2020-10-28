@@ -26,46 +26,10 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://illuminator1337.github.io/Wayup/">WAYUP</a></td>
-<td>HTML5, CSS3, JQuery, JavaScript</td>
+<td><a href="https://illuminator1337.github.io/Movee/">MOVEE</a></td>
+<td>HTML5, SCSS, JQuery, JavaScript, GULP</td>
 <td align="center">Вёрстка</td>
 </tr>
-<tr>
-<td><a href="https://illuminator1337.github.io/Cuda/">Cuda</a></td>
-<td>HTML5, CSS3</td>
-<td align="center">Вёрстка</td>
-</tr>
-<tr>
-<td><a href="https://illuminator1337.github.io/Fruitopia/">Fruitopia</a></td>
-<td>HTML5, CSS3</td>
-<td align="center">Вёрстка</td>
-</tr>
-<tr>
-<td><a href="https://illuminator1337.github.io/FitnessLP/">FitnessLP</a></td>
-<td>HTML5, CSS3, JavaScript</td>
-<td align="center">Вёрстка</td>
-</tr>
-<tr>
-<td><a href="https://illuminator1337.github.io/AdventureLP/">AdventureLP</a></td>
-<td>HTML5, CSS3</td>
-<td align="center">Вёрстка</td>
-</tr>
-<tr>
-<td><a href="https://illuminator1337.github.io/FitLP/">FitLP</a></td>
-<td>HTML5, CSS3, JavaScript</td>
-<td align="center">Вёрстка</td>
-</tr>
- <tr>
-<td><a href="https://illuminator1337.github.io/ItalianFoodLP/">ItalianFoodLP</a></td>
-<td>HTML5, CSS3</td>
-<td align="center">Вёрстка</td>
-</tr>
-<tr>
-<td><a href="https://illuminator1337.github.io/MakeUp/">MakeUpLP</a></td>
-<td>HTML5, CSS3, Bootstrap 4</td>
-<td align="center">Вёрстка</td>
-</tr>
-
 </tbody>
 </table>
 
