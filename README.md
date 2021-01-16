@@ -5,7 +5,7 @@
  <br>
  <ul>
   <li>JavaScript, jQuery</li>
-  <li>HTML5, CSS3, SCSS, Bootstrap 4</li>
+  <li>HTML5, CSS3, SCSS, Bootstrap</li>
   <li>Gulp</li>
   <li>Git</li>
   <li>VSCode</li>
@@ -28,6 +28,11 @@
 <tr>
 <td><a href="https://illuminator1337.github.io/Movee/">MOVEE</a></td>
 <td>HTML5, SCSS, JQuery, JavaScript, GULP</td>
+<td align="center">Вёрстка</td>
+</tr>
+<tr>
+<td><a href="https://illuminator1337.github.io/ActiveBox/">ActiveBox</a></td>
+<td>HTML5, SCSS, JQuery, GULP</td>
 <td align="center">Вёрстка</td>
 </tr>
 </tbody>
