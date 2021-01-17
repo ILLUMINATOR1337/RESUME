@@ -27,7 +27,7 @@
 <tbody>
 <tr>
 <td><a href="https://illuminator1337.github.io/Movee/">MOVEE</a></td>
-<td>HTML5, SCSS, JQuery, JavaScript, GULP</td>
+<td>HTML5, SCSS, JQuery, GULP</td>
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
