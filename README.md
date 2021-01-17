@@ -35,6 +35,11 @@
 <td>HTML5, SCSS, JQuery, GULP</td>
 <td align="center">Вёрстка</td>
 </tr>
+<tr>
+<td><a href="https://illuminator1337.github.io/Icndy/">Icndy</a></td>
+<td>HTML5, SCSS, JQuery, GULP</td>
+<td align="center">Вёрстка</td>
+</tr>
 </tbody>
 </table>
 
