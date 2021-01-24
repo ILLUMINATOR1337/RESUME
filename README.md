@@ -1,7 +1,7 @@
 
 <h1> Даниил Загиров
 <hr>
- <h3>Стек технологий(актуальность на 2020 год):</h3>
+ <h3>Стек технологий(актуальность на 2021 год):</h3>
  <br>
  <ul>
   <li>JavaScript, jQuery</li>
@@ -38,6 +38,11 @@
 <tr>
 <td><a href="https://illuminator1337.github.io/Icndy/">Icndy</a></td>
 <td>HTML5, SCSS, JQuery, GULP</td>
+<td align="center">Вёрстка</td>
+</tr>
+<tr>
+<td><a href="https://illuminator1337.github.io/DropdownMenu/">DropdownMenu</a></td>
+<td>HTML5, CSS, JavaScript</td>
 <td align="center">Вёрстка</td>
 </tr>
 </tbody>
