@@ -45,6 +45,11 @@
 <td>HTML5, CSS, JavaScript</td>
 <td align="center">Вёрстка</td>
 </tr>
+<tr>
+<td><a href="https://illuminator1337.github.io/Travel/">Travel</a></td>
+<td>HTML5, CSS, JavaScript</td>
+<td align="center">Вёрстка</td>
+</tr>
 </tbody>
 </table>
 
