@@ -56,6 +56,11 @@
 <td>HTML5, CSS, JavaScript, Three.js</td>
 <td align="center">Three.js</td>
 </tr>
+<tr>
+<td><a href="https://illuminator1337.github.io/email-build/">email</a></td>
+<td>HTML5, CSS</td>
+<td align="center">Email-верстка</td>
+</tr>
 </tbody>
 </table>
 
