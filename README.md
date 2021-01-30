@@ -52,7 +52,7 @@
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
-<td><a href="https://illuminator1337.github.io/Travel/">3d Model</a></td>
+<td><a href="https://illuminator1337.github.io/car3d/">3d Model</a></td>
 <td>HTML5, CSS, JavaScript, Three.js</td>
 <td align="center">Three.js</td>
 </tr>
