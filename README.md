@@ -66,6 +66,11 @@
 <td>HTML5, CSS</td>
 <td align="center">Email-верстка</td>
 </tr>
+<tr>
+<td><a href="https://illuminator1337.github.io/email-build-three/">email-письмо 3</a></td>
+<td>HTML5, CSS</td>
+<td align="center">Email-верстка</td>
+</tr>
 </tbody>
 </table>
 
