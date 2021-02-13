@@ -56,6 +56,11 @@
 <td align="center">Three.js</td>
 </tr>
 <tr>
+<td><a href="https://illuminator1337.github.io/email-tutorial/">email-письмо(Верстка по туториалу)</a></td>
+<td>HTML5, CSS</td>
+<td align="center">Email-вёрстка</td>
+</tr>
+<tr>
 <td><a href="https://illuminator1337.github.io/email-build/">email-письмо 1</a></td>
 <td>HTML5, CSS</td>
 <td align="center">Email-вёрстка</td>
