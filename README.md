@@ -85,6 +85,11 @@
 <td>HTML5, SCSS, JQuery, GULP</td>
 <td align="center">Вёрстка</td>
 </tr>
+<tr>
+<td><a href="https://illuminator1337.github.io/Silon/#">ek-mel-portfolio</a></td>
+<td>HTML5, SCSS, JQuery, GULP, Bootstrap</td>
+<td align="center">Вёрстка</td>
+</tr>
 </tbody>
 </table>
 
